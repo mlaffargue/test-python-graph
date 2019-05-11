@@ -10,7 +10,9 @@ Testing python programming.
 * Link some random nodes
 * Add power to random nodes and their children
 
+Result is saved in a file
+
 Possible evolutions:
-  - Add some graphical output
   - Add multi-threading
   
+![Example](https://github.com/mlaffargue/test-python-graph/blob/master/example.png?raw=true)
